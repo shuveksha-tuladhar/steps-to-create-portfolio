@@ -33,5 +33,5 @@ https://shuveksha-tuladhar.github.io/
 9. Click on Settings -> Pages. Select your branch on which your code exists. By default the branch name is “main”. 
 ![settings](https://user-images.githubusercontent.com/97779778/156959683-d361c546-dcc0-49ab-95e1-85bcfee9d24e.png)
 
-10. Your personal webpage using Github can be accessed as “username.github.io”
-My example: https://shuveksha-tuladhar.github.io/![11](https://user-images.githubusercontent.com/97779778/156959370-45bf8d2b-b3b4-401c-91c3-98d92ae37c4e.png)
+10. Your personal webpage using Github can be accessed as “username.github.io”.
+My example: https://shuveksha-tuladhar.github.io/
