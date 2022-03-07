@@ -4,7 +4,7 @@
 ![vscode-editor](https://user-images.githubusercontent.com/97779778/156959005-f41e57fc-921c-4ae5-b942-16dff5d59ef3.png)
 3. Login into your account using username and password on http://www.github.com. OR Create a profile if you don't have one. ![login-page](https://user-images.githubusercontent.com/97779778/156959094-632c07f6-1313-45cb-af87-de7c51de09f7.png)
 
-4. Click on “Your repositories”
+4. Click on “Your repositories” <br>
 ![Repo](https://user-images.githubusercontent.com/97779778/156959116-650008a5-302b-43c6-abdc-ec25820e2fa8.png)
 
 
@@ -19,6 +19,7 @@ Make this repository “Public” so that anyone can see this repository. And cl
 Here is my example for matching my owner name and repository name. It shows red because I already created my portfolio repository for this account. 
 
 https://shuveksha-tuladhar.github.io/
+
 ![my-porforlio](https://user-images.githubusercontent.com/97779778/156959189-35366dcf-c6da-4dfa-8d55-63057e4052ce.png)
 
 
